@@ -1,0 +1,5 @@
+shift+delete    永久删除文件
+alt+tab 进行不同界面的互换
+ctrl+pgup/pgdn 浏览器标签页的左右互换
+win+x 关机实用
+win +e 弹出这台电脑
